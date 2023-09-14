@@ -1,4 +1,4 @@
 # Shortcuts
 Repo for all my shortcuts, links, and versions. 
 
-Yeah so this is where I'm moving all my shortcuts. RIP [RoutineHub](routinehub.co)
+Yeah so this is where I'm moving all my shortcuts. RIP [RoutineHub](https://routinehub.co)
