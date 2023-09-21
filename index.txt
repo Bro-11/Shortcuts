@@ -3,3 +3,4 @@ GitUpdate
 PassVault
 UpVault
 ShortHub
+ShortHub Helper
