@@ -1,5 +1,4 @@
 Xtensions
-GitUpdate
 PassVault
 UpVault
 ShortHub
