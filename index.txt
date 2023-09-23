@@ -2,4 +2,4 @@ Xtensions
 PassVault
 UpVault
 ShortHub
-ShortHubHelper
+ShortHub Helper
