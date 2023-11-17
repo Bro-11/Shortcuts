@@ -4,3 +4,4 @@ UpVault
 ShortHub
 ShortHub_Helper
 Installer
+Clear_Clipboard
