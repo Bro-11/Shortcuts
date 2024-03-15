@@ -1,526 +1,244 @@
 Absolute Zero
-
 Acid green
-
 Aero
-
 African violet
-
 Air superiority blue
-
 Alabaster
-
 Alice blue
-
 Alizarin
-
 Alloy orange
-
 Almond
-
 Amaranth
-
 Amaranth deep purple
-
 Amaranth pink
-
 Amaranth purple
-
 Amazon
-
 Amber
-
-Amber (SAE/ECE)
-
 Amethyst
-
-Amethyst (Crayola)
-
 Android green
-
 Antique brass
-
 Antique bronze
-
 Antique fuchsia
-
 Antique ruby
-
 Antique white
-
 Apricot
-
 Aqua
-
 Aquamarine
-
-Aquamarine (Crayola)
-
 Arctic lime
-
 Artichoke green
-
 Arylide yellow
-
 Ash gray
-
 Asparagus
-
 Atomic tangerine
-
 Aureolin
-
 Aztec gold
-
 Azure
-
-Azure (X11/web color)
-
-B edit
-
 Baby blue
-
 Baby blue eyes
-
 Baby pink
-
 Baby powder
-
 Baker-Miller pink
-
 Banana Mania
-
 Barbie pink
-
 Barn red
-
 Battleship grey
-
 Beau blue
-
 Beaver
-
 Beige
-
 Berry parfait
-
 B'dazzled blue
-
 Big dip o’ruby
-
 Big Foot Feet
-
 Bisque
-
 Bistre
-
 Bistre brown
-
 Bitter lemon
-
 Bittersweet
-
 Bittersweet shimmer
-
 Black
-
 Black bean
-
 Black coral
-
 Black olive
-
 Black Shadows
-
 Blanched almond
-
 Blast-off bronze
-
 Bleu de France
-
 Blizzard blue
-
 Blood red
-
 Blue
-
-Blue (Crayola)
-
-Blue (Munsell)
-
-Blue (NCS)
-
-Blue (Pantone)
-
-Blue (pigment)
-
 Blue bell
-
 Blue-gray
-
-Blue-gray (Crayola)
-
 Blue-green
-
 Blue jeans
-
 Blue Ribbon
-
 Blue sapphire
-
 Blue-violet
-
 Blue yonder
-
 Blueberry
-
 Bluetiful
-
 Blush
-
 Bole
-
 Bone
-
 Booger Buster
-
 Brick red
-
 Bright green
-
 Bright lilac
-
 Bright maroon
-
 Bright navy blue
-
 Bright pink
-
 Bright turquoise
-
-Bright yellow (Crayola)
-
 Brilliant rose
-
 Brink pink
-
 British racing green
-
 Bronze
-
 Brown
-
-Brown (crayola)
-
-Brown (web)
-
 Brown sugar
-
 Bud green
-
 Buff
-
 Burgundy
-
 Burlywood
-
 Burnished brown
-
 Burnt orange
-
 Burnt sienna
-
 Burnt umber
-
-Byzantine
-
+Buzantine
 Byzantium
-
-C edit
-
 Cadet
-
 Cadet blue
-
 Cadet grey
-
 Cadmium green
-
 Cadmium orange
-
 Cadmium red
-
 Cadmium yellow
-
 Café au lait
-
 Café Noir
-
 Cambridge blue
-
 Camel
-
 Cameo pink
-
 Canary
-
-Canary yellow
-
+Canary yelloe
 Candy apple red
-
 Candy pink
-
 Cardinal
-
 Caribbean green
-
 Carmine
-
 Carnation pink
-
 Carolina blue
-
 Carrot orange
-
 Catawba
-
 Cedar Chest
-
 Celadon
-
 Celeste
-
 Cerise
-
 Cerulean
-
 Cerulean blue
-
 Cerulean frost
-
 Cerulean (Crayola)
-
 Champagne
-
 Champagne pink
-
 Charcoal
-
 Charleston green
-
 Charm pink
-
 Chartreuse
-
 Cherry blossom pink
-
 Chestnut
-
 China pink
-
 Chinese red
-
 Chinese violet
-
-Chocolate (traditional)
-
-Chocolate (web)
-
+Chocolate
 Cinereous
-
 Cinnamon Satin
-
 Citrine
-
 Citron
-
 Claret
-
 Cobalt blue
-
 Cocoa brown
-
 Coconut
-
 Coffee
-
 Columbia Blue
-
 Congo pink
-
 Cool grey
-
 Copper
-
 Copper penny
-
 Copper red
-
 Copper rose
-
 Coquelicot
-
 Coral
-
 Coral pink
-
 Cordovan
-
-Cornflower blue (web)
-
-Cornflower blue (Crayola)
-
+Cornflower blue
 Cornsilk
-
 Cosmic cobalt
-
 Cosmic latte
-
 Coyote brown
-
 Cotton candy
-
 Cream
-
 Crimson
-
-Crimson (UA)
-
 Cultured
-
 Cyan
-
 Cyber grape
-
 Cyber yellow
-
 Cyclamen
-
-D edit
-
 Dandelion
-
 Dark blue
-
 Dark blue-gray
-
 Dark brown
-
 Dark byzantium
-
 Dark cyan
-
 Dark electric blue
-
 Dark Fuchsia
-
 Dark goldenrod
-
-Dark gray (X11)
-
+Dark gray
 Dark green
-
-Dark green (X11)
-
 Dark jungle green
-
 Dark khaki
-
 Dark lava
-
 Dark liver
-
 Dark magenta
-
 Dark midnight blue
-
 Dark moss green
-
 Dark olive green
-
 Dark orange
-
 Dark orchid
-
 Dark pastel green
-
 Dark purple
-
 Dark raspberry
-
 Dark red
-
 Dark salmon
-
 Dark sea green
-
 Dark sienna
-
 Dark sky blue
-
 Dark slate blue
-
 Dark slate gray
-
 Dark spring green
-
 Dark tan
-
 Dark turquoise
-
 Dark vanilla
-
 Dark violet
-
 Dartmouth green
-
 Davy's grey
-
 Deep cerise
-
 Deep champagne
-
 Deep chestnut
-
 Deep fuchsia
-
 Deep jungle green
-
 Deep lemon
-
 Deep mauve
-
 Deep pink
-
 Deep sky blue
-
 Deep Space Sparkle
-
 Deep Taupe
-
 Denim
-
 Denim Blue
-
 Desert
-
 Desert sand
-
 Dim gray
-
 Dingy Dungeon
-
 Dirt
-
 Dodger blue
-
 Dogwood rose
-
 Duke blue
-
 Dutch white
-
-E edit
 
 Earth yellow
 
