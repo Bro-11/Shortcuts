@@ -573,1079 +573,482 @@ Myrtle green
 Mystic
 Mystic maroon
 Mystic red
-
 Nadeshiko pink
-
 Napier green
-
 Naples yellow
-
 Navajo white
-
 Navy blue
-
-Navy blue (Crayola)
-
 Navy purple
-
 Neon blue
-
 Neon brown
-
 Neon Carrot
-
 Neon cyan
-
 Neon fuchsia
-
 Neon gold
-
 Neon gray
-
 Neon dark green
-
 Neon green
-
-Neon green
-
 Neon pink
-
 Neon purple
-
 Neon red
-
 Neon scarlet
-
 Neon silver
-
 Neon tangerine
-
 Neon yellow
-
 New Car
-
 New York pink
-
 Nickel
-
 Nintendo red
-
 Non-photo blue
-
 Nyanza
-
 Ocean boat blue
-
 Ochre
-
 Office green
-
 Old burgundy
-
 Old gold
-
 Old heliotrope
-
 Old lace
-
 Old lavender
-
 Old mauve
-
 Old moss green
-
 Old rose
-
 Old silver
-
 Olive
-
-Olive drab (#3)
-
-Olive drab #7
-
+Olive drab
 Olive green
-
 Olivine
-
 Onyx
-
 Opal
-
 Opera mauve
-
 Orange
-
-Orange (color wheel)
-
-Orange (Crayola)
-
-Orange (Pantone)
-
-Orange (RYB)
-
-Orange (web)
-
 Orange iced tea
-
-Orange-red (Crayola)
-
-Orange soda
-
+Orange-red
 Orange Soda
-
 Orange-yellow
-
-Orange-yellow (Crayola)
-
 Orchid
-
-Orchid pink
-
-Orchid (Crayola)
-
+Orchid pin
 Orioles orange
-
 Otter brown
-
 Outer Space
-
-Outer space (Crayola)
-
 Outrageous orange
-
 Oxblood
-
 Oxford blue
-
 Oxley
-
 OU Crimson red
-
-P–Q edit
-
 Pacific Blue
-
 Pakistan green
-
 Palatinate blue
-
 Palatinate purple
-
 Pale aqua
-
 Pale blue
-
 Pale brown
-
 Pale carmine
-
 Pale cerulean
-
 Pale chestnut
-
 Pale copper
-
 Pale cornflower blue
-
 Pale cyan
-
 Pale gold
-
 Pale goldenrod
-
 Pale green
-
 Pale lavender
-
 Pale magenta
-
 Pale pink
-
 Pale plum
-
 Pale robin egg blue
-
 Pale silver
-
 Pale spring bud
-
-Pale taupe
-
 Pale turquoise
-
 Pale violet
-
 Pale violet-red
-
 Pansy purple
-
 Paolo Veronese green
-
 Papaya whip
-
 Paradise pink
-
 Parchment
-
 Paris Green
-
 Pastel blue
-
 Pastel brown
-
 Pastel gray
-
 Pastel green
-
 Pastel magenta
-
 Pastel orange
-
 Pastel pink
-
 Pastel purple
-
 Pastel red
-
 Pastel violet
-
 Pastel yellow
-
 Patriarch
-
 Payne's grey
-
 Peach
-
-Peach (Crayola)
-
 Peach puff
-
 Pear
-
 Pearl
-
 Pearl Aqua
-
 Pearly purple
-
 Peridot
-
 Periwinkle
-
-Periwinkle (Crayola)
-
 Persian blue
-
 Persian green
-
 Persian indigo
-
 Persian orange
-
 Persian pink
-
 Persian plum
-
 Persian red
-
 Persian rose
-
 Persimmon
-
 Peru
-
 Petal
-
 Pewter blue
-
 Philippine blue
-
 Philippine bronze
-
 Philippine brown
-
 Philippine gold
-
 Philippine golden yellow
-
 Philippine gray
-
 Philippine green
-
 Philippine indigo
-
 Philippine orange
-
 Philippine pink
-
 Philippine red
-
 Philippine silver
-
 Philippine sky blue
-
 Philippine violet
-
 Philippine yellow
-
 Phlox
-
 Phthalo blue
-
 Phthalo green
-
 Picton blue
-
 Pictorial carmine
-
 Piggy pink
-
 Pine green
-
 Pine green
-
 Pineapple
-
 Pink
-
-Pink (Pantone)
-
-Pink Diamond (Ace Hardware Color)
-
-Pink Diamond (Independent Retailers Colors)
-
+Pink Diamond
 Pink flamingo
-
 Pink lace
-
 Pink pearl
-
 Pink Sherbet
-
 Pistachio
-
 Platinum
-
 Plum
-
-Plum (web)
-
 Plump Purple
-
 Poison Purple
-
 Police blue
-
 Polished pine
-
 Pomp and Power
-
 Portland Orange
-
 Powder blue
-
 Princeton orange
-
 Prune
-
 Prussian blue
-
 Psychedelic purple
-
 Puce
-
 Puce red
-
-Pullman Brown (UPS Brown)
-
+Pullman Brown
 Pumpkin
-
-Purple (HTML)
-
-Purple (Munsell)
-
-Purple (X11)
-
+Purple
 Purple Heart
-
 Purple mountain majesty
-
 Purple navy
-
 Purple pizzazz
-
 Purple Plum
-
 Purple taupe
-
 Purpureus
-
 Quartz
-
 Queen blue
-
 Queen pink
-
 Quick silver
-
 Quinacridone magenta
-
 Quincy
-
-R edit
-
 Rackley
-
 Radical Red
-
 Raisin black
-
 Rajah
-
 Raspberry
-
 Raw Sienna
-
 Raw umber
-
 Razzmatazz
-
 Razzle Dazzle Rose
-
 Razzmic Berry
-
 Rebecca Purple
-
 Red
-
-Red (Crayola)
-
-Red (Munsell)
-
-Red (NCS)
-
-Red (Pantone)
-
-Red (pigment)
-
-Red (RYB)
-
 Red-brown
-
 Red cola
-
-Red-orange (Crayola)
-
-Red-orange (Color wheel)
-
+Red-orange
 Red rum
-
 Red Salsa
-
 Red strawberry
-
 Red-violet
-
-Red-violet (Crayola)
-
-Red-violet (Color wheel)
-
 Redwood
-
 Registration black
-
 Resolution blue
-
 Rhythm
-
 Rich brilliant lavender
-
 Rich carmine
-
 Rich electric blue
-
 Rich lavender
-
 Rich lilac
-
 Rich maroon
-
 Rifle green
-
 Ripe mango
-
 Roast coffee
-
 Robin egg blue
-
 Rocket metallic
-
 Roman silver
-
 Root beer
-
 Rose
-
 Rose dust
-
 Royal azure
-
 Royal blue
-
 Royal blue
-
 Royal brown
-
 Royal fuchsia
-
 Royal green
-
 Royal orange
-
 Royal pink
-
 Royal red
-
 Royal red
-
 Royal purple
-
 Royal yellow
-
 Ruby
-
 Rufous
-
 Rum
-
 Russet
-
 Russian green
-
 Russian violet
-
 Rust
-
 Rusty red
-
-S edit
-
 Sacramento State green
-
 Saddle brown
-
 Safety orange
-
-Safety orange (blaze orange)
-
 Safety yellow
-
 Saffron
-
 Sage
-
 St. Patrick's blue
-
 Salem
-
 Salmon
-
 Salmon Rose
-
 Salmon pink
-
 Samsung blue
-
 Sand
-
 Sand dune
-
 Sandy brown
-
 Sandy taupe
-
 Sap green
-
 Sapphire
-
 Sapphire blue
-
 Satin sheen gold
-
 Scarlet
-
-Scarlet (Crayola)
-
 Schauss pink
-
 School bus yellow
-
 Screamin' green
-
 Sea blue
-
 Sea green
-
-Sea green (Crayola)
-
 Seal brown
-
 Seashell
-
 Selective yellow
-
 Sepia
-
 Shadow
-
 Shadow blue
-
 Shampoo
-
 Shamrock green
-
 Shandy
-
 Sheen green
-
 Shimmering Blush
-
 Shiny shamrock
-
 Shocking pink
-
 Shocking pink (Crayola)
-
 Sienna
-
 Silver
-
-Silver (Crayola)
-
-Silver (Metallic)
-
 Silver chalice
-
 Silver foil
-
 Silver Lake blue
-
 Silver pink
-
 Silver sand
-
 Sinopia
-
 Sizzling Red
-
 Sizzling Sunrise
-
 Skobeloff
-
 Sky blue
-
-Sky blue (Crayola)
-
 Sky magenta
-
 Slate blue
-
 Slate gray
-
 Slimy green
-
-Smalt (Dark powder blue)
-
+Smalt
 Smoke
-
 Smokey Topaz
-
 Smoky black
-
 Soap
-
 Solid pink
-
 Sonic silver
-
 Spartan Crimson
-
 Space cadet
-
 Spanish bistre
-
 Spanish blue
-
 Spanish carmine
-
 Spanish crimson
-
 Spanish gray
-
 Spanish green
-
 Spanish orange
-
 Spanish pink
-
 Spanish purple
-
 Spanish red
-
 Spanish sky blue
-
 Spanish violet
-
 Spanish viridian
-
 Spanish yellow
-
 Spicy mix
-
 Spring bud
-
 Spring Frost
-
 Spring green
-
-Spring green (Crayola)
-
 Star command blue
-
 Steel blue
-
 Steel pink
-
 Steel teal
-
 Stil de grain yellow
-
 Straw
-
 Strawberry
-
 Stop red
-
 Strawberry iced tea
-
 Strawberry red
-
 Sugar plum
-
 Sunglow
-
 Sunray
-
 Sunset
-
 Sunset orange
-
 Super pink
-
 Sweet Brown
-
-T edit
-
 Tan
-
-Tan (Crayola)
-
 Tangelo
-
 Tangerine
-
 Tangerine yellow
-
 Tango pink
-
 Tart Orange
-
 Taupe
-
 Taupe gray
-
 Tea green
-
 Tea rose
-
 Tea rose
-
 Teal
-
 Teal blue
-
 Teal deer
-
 Teal green
-
 Telemagenta
-
 Temptress
-
-Tenné (tawny)
-
+Tenné
 Terra cotta
-
 Thistle
-
-Thistle (Crayola)
-
 Thulian pink
-
 Tickle Me Pink
-
 Tiffany Blue
-
 Tiger's eye
-
 Timberwolf
-
 Titanium
-
 Titanium yellow
-
 Tomato
-
 Tomato sauce
-
 Tooth
-
 Topaz
-
 Tractor red
-
 Trolley grey
-
 Tropical rain forest
-
 True blue
-
 Tufts blue
-
 Tulip
-
 Tumbleweed
-
 Turkish rose
-
 Turquoise
-
 Turquoise green
-
 Tuscan brown
-
 Tuscan red
-
 Tuscan tan
-
 Tuscany
-
 Twitter blue
-
 Twilight lavender
-
 Tyrian purple
-
-U–V edit
-
 Ultramarine
-
 Ultramarine blue
-
-Ultramarine blue (Caran d'Ache)
-
 Ultra pink
-
 Ultra red
-
 Umber
-
 Unbleached silk
-
 United Nations blue
-
 Unmellow yellow
-
 UP maroon
-
 Upsdell red
-
 Urobilin
-
 Black
-
 Van Dyke brown
-
 Vanilla
-
 Vanilla ice
-
 Vegas gold
-
 Venetian red
-
 Verdigris
-
 Vermilion
-
-Vermilion
-
 Veronica
-
 Very light azure
-
 Very light blue
-
 Very light malachite green
-
 Very light tangelo
-
 Very pale orange
-
 Very pale yellow
-
 Vine Green
-
-Violet
-
-Violet (Caran d'Ache)
-
-Violet (color wheel)
-
-Violet (crayola)
-
-Violet (RYB)
-
-Violet (web)
-
+Violey
 Violet-blue
-
-Violet-blue (Crayola)
-
 Violin Brown
-
 Viridian
-
 Viridian green
-
 Vista blue
-
 Vivid amber
-
 Vivid auburn
-
 Vivid burgundy
-
 Vivid cerise
-
 Vivid cerulean
-
 Vivid crimson
-
 Vivid gamboge
-
 Vivid lime green
-
 Vivid mulberry
-
 Vivid orange
-
 Vivid orange peel
-
 Vivid orchid
-
 Vivid raspberry
-
 Vivid red
-
 Vivid red-tangelo
-
 Vivid tangelo
-
 Vivid vermilion
-
 Vivid violet
-
 Vivid yellow
-
-W–Z edit
-
 Water
-
 Watermelon
-
 Watermelon red
-
 Watermelon Yellow
-
 Waterspout
-
 Wenge
-
 Wheat
-
 White
-
 White chocolate
-
 White coffee
-
 White smoke
-
 Wild orchid
-
 Wild Strawberry
-
 Wild watermelon
-
 Willpower orange
-
 Windsor tan
-
 Wine
-
 Wine red
-
 Winter Sky
-
 Wintergreen dream
-
 Wisteria
-
 Wood brown
-
 Xanadu
-
 Yellow
-
-Yellow (Crayola)
-
-Yellow (Munsell)
-
-Yellow (NCS)
-
-Yellow (Pantone)
-
-Yellow (process)
-
-Yellow (RYB)
-
 Yellow-green
-
-Yellow-green (Crayola)
-
 Yellow Orange
-
 Yellow rose
-
 Yellow Sunshine
-
 YInMn Blue
-
 Zaffre
-
 Zebra White
-
 Zinnwaldite
